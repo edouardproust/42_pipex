@@ -1,0 +1,8 @@
+*.a
+*.o
+*.out
+src/obj
+pipex
+*.swp
+*.swo
+test/outfile
